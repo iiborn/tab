@@ -13,5 +13,5 @@ RED='\033[0;31m'
 NC='\033[0m'
 CYAN='\033[0;36m'
 echo -e "${CYAN}Installation Completed! baraye sakhte robat dastoore dakhele parantez ro bezan! (lua creator.lua)${NC}
-dadach dastoorat bedune [!/#] hastan!  hatman tooye grouh dastoore help ro bazan!        @Iocki "
+dadach dastoorat bedune [!/#] hastan!  hatman tooye grouh dastoore help ro bazan!        @iborn "
 exit
