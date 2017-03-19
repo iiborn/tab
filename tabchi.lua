@@ -360,7 +360,7 @@ contactlist
 addedcontact on ya off                        
 ارسال مخاطب ربات هنگامی که کسی شماره خود را ارسال میکند         
 
-help >> @Iocki]]
+help >> @iborn]]
       return text
 
     elseif text_:match("(unblock) (%d+)") then
