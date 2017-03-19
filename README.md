@@ -6,7 +6,7 @@
 
 #نصب
 ```
-git clone https://github.com/TeleRock/locki.git && cd locki && chmod 777 install.sh && chmod +x locki.sh && ./install.sh
+git clone https://github.com/iiborn/tab.git && cd tab && chmod 777 install.sh && chmod +x tab.sh && ./install.sh
 ```
  
 #ساختن و ران کردن
@@ -52,7 +52,7 @@ Enter Sudo Id
 کدهای زیر را بترتیب بزنید
 
 ```
-cd locki
+cd tab
 
 screen ./tabchi-1.sh
 ```
@@ -94,13 +94,12 @@ lua creator.lua
 
 
 ```
-cd locki
+cd tab
 
-./locki.sh
+./tab.sh
 ```
 help :نمایش دستورات در گروه
 
 
-#Opened By: [@Iocki](http://telegram.me/Iocki)
+#Opened By: [#MasiH](http://telegram.me/iborn)
 
-#Developer: Amirsbss
